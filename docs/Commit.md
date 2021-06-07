@@ -1,5 +1,8 @@
-# Git Commit Message Template
-```git 
+# Ready to use Template
+These templates are made to help getting started and do things without errors.
+### Git Commit Message Template
+
+```git title="git commit"
 Summarize the change in less than 50 characters
 
 Because:
