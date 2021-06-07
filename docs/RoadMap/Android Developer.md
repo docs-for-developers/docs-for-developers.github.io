@@ -2,12 +2,6 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/anacoimbrag/android-developer-roadmap.svg?style=flat-square)
 
-**Para a versão em português, [clique aqui](./README_PT_BR.md)**
-
-**Para la versión en español, [clic auquí](./README_ES.md)**
-
-**Voor de nederlandse versie, [klik hier](./README_NL.md)**
-
 Based on the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) that helps web developers with a path of what to learn on this extensive area, we developed the Android Developer Roadmap with the same goal.
 
 We hope that with this roadmap new developers will find it easier to start building beautiful Android applications.
@@ -42,7 +36,6 @@ We want to thank the Android dev community all over the world that helped us wit
 
 If you think anything is missing or should not be there, or should be different, please open a pull request with your ideas.
 
-[Here](./docs/contributing.md) you can find how to contribute to the roadmap.
 
 ## Authors
 

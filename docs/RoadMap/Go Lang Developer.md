@@ -3,15 +3,6 @@
 > Roadmap to becoming a [Go](https://golang.org/) developer in 2021:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Go developer?*"
-
-[简体中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
-[繁體中文版](./i18n/zh-TW/ReadMe-zh-TW.md)
-[日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
-[Versão em Português do Brasil](./i18n/pt-BR/ReadMe-pt-BR.md)
-[한국어](./i18n/ko-KR/ReadMe-ko-KR.md)
-[Русский](./i18n/ru-RU/ReadMe-ru-RU.md)
-[Українська](./i18n/uk-UA/ReadMe-uk-UA.md)
-
 ## Disclaimer
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.

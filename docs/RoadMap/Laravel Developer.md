@@ -67,7 +67,3 @@ The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be 
 -   Discuss ideas in issues
 -   Spread the word
 -   Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nhasnayeen.svg?style=social&label=Follow%20%40nhasnayeen)](https://twitter.com/nhasnayeen)
-
-## License
-
-This project is licensed under [MIT](LICENSE)

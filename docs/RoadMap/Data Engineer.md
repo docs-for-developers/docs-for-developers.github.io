@@ -20,13 +20,9 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 🔥  We just launched [**Data Stack Jobs**](https://datastackjobs.com/) — a clean and simple job site for Data Stack Engineers!
 
-> [Text version for visually impaired users](text/roadmap.md)
 
 ![Data Engineer Roadmap](https://github.com/docs-for-developers/data-engineer-roadmap/raw/master/img/roadmap.png)
 
-## Nice to have 😎
-
-> [Text version for visually impaired users](text/extras.md)
 
 ![Data Engineer Roadmap Extras](https://github.com/docs-for-developers/data-engineer-roadmap/raw/master/img/extras.png)
 

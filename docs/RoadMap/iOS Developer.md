@@ -21,7 +21,7 @@ See [this article](https://medium.com/@borlov/c9a24f413457) explaining selection
 1. Find a topic you want to study.
 2. Go to corresponding resources section.
 3. Study until you can confidently explain the topic to your cat.
-4. (Optional) tick the checkbox next to the topic. [How to tick a checkbox](HowTo/HOWTOCHECKBOX.md).
+4. (Optional) tick the checkbox next to the topic.
 4. Go to step 1.
 
 `Essential topics` are topics which significantly contribute to understanding of iOS development. Consequently, it is a good idea to study them first as they are often encountered on interviews.
@@ -29,21 +29,13 @@ See [this article](https://medium.com/@borlov/c9a24f413457) explaining selection
 Start from `Getting started` section if you haven't done any iOS development yet.
 
 ## 🗺 Image version 
-Roadmap of essential topics. Roadmap for all topics is [here.](RoadmapProject/Script/Generated/ROADMAP.png)
+Roadmap of essential topics.
 ![Header image](https://github.com/docs-for-developers/iOS-Developer-Roadmap/raw/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png)
-
-## 📝 Text version
-[Text version with materials to study.](RoadmapProject/Script/Generated/ROADMAP.md)
-
 ## 🤝 How to contribute
 
 - add new topics to `Content.yml`
 - add missing study materials to `Content.yml`
 - throw ideas at me on [![Twitter: @Bohdan_Orlov](https://img.shields.io/badge/twitter-@Bohdan_Orlov-4d66b3.svg?style=flat)](https://twitter.com/bohdan_orlov)
-
-
-[The complete contribution guide.](HowTo/HOWTOPR.md)
-
 
 ## ☑️ TODO
 - [x] content file with topics and materials

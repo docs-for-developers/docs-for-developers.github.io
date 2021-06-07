@@ -4,8 +4,6 @@
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
 
--   Language: [:cn: 中文](ReadMe-CN.md) | [:uk: English](/ReadMe.md) | [:pt: Português](/ReadMe-PT.md)
-
 ## Disclaimer
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
