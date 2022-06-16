@@ -1,35 +1,27 @@
 ---
+title: Intro for the Docs
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+Please find suitable Doc from the sidebar:
 
-Let's discover **Docusaurus in less than 5 minutes**.
+- [Developer RoadMap](/docs/RoadMap/Android%20Developer)
+- [Developer RoadMap](/docs/RoadMap/Android%20Developer)
 
-## Getting Started
+## Notes:
 
-Get started by **creating a new site**.
+#### Git Commit Message Template
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+```git title="git commit"
+Summarize the change in less than 50 characters
 
-## Generate a new site
+Because:
+- Explain the reasons you made this change
+- Make a new bullet for each reason
+- Each line should be under 72 characters
 
-Generate a new Docusaurus site using the **classic template**:
+Explain exactly what was done in this commit with more depth than the
+50 character subject line. Remember to wrap at 72 characters!
 
-```shell
-npx @docusaurus/init@latest init my-website classic
+Include any additional notes, relevant links, or co-authors.
 ```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
